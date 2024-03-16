@@ -14,33 +14,34 @@ If both players choose the same shape, the game is tied, and they may play again
 # Game Algorithms:
 
 
-    # Import the random module for generating random choices for the computer
-     import random
+    # Import the random module for generating the computer's choice
+    import random
 
     # Define the game function
     def rock_paper_scissors():
     # The choices available in the game
     choices = ['rock', 'paper', 'scissors']
     
-    # Ask for the user's choice
-    user_choice = input("Enter rock, paper, or scissors: ").lower()
-    
-    # The computer randomly selects its choice
+    # The computer randomly selects its choice first
     computer_choice = random.choice(choices)
+    
+    # Then ask for the user's choice
+    user_choice = input("Enter rock, paper, or scissors: ").lower()
     
     # Determine the winner
     if user_choice == computer_choice:
-        return "It's a tie!"
-    elif (user_choice == 'rock' and computer_choice == 'scissors') or \
-         (user_choice == 'scissors' and computer_choice == 'paper') or \
-         (user_choice == 'paper' and computer_choice == 'rock'):
-        return "User wins!"
+        return "It's a tie! The computer also chose " + computer_choice + "."
+    elif (user_choice == 'rock' and computer_choice == 'scissors') \
+        or (user_choice == 'scissors' and computer_choice == 'paper') \
+        or (user_choice == 'paper' and computer_choice == 'rock'):
+        return "You win! The computer chose " + computer_choice + "."
     else:
-        return "Computer wins!"
+        return "You lose! The computer chose " + computer_choice + "."
 
     # Play a round of the game
     result = rock_paper_scissors()
     print(result)
+
 
 # Team member's roles:
 
