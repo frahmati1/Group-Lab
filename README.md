@@ -46,7 +46,7 @@ If both players choose the same shape, the game is tied, and they may play again
 
 - Farnoosh Rahmati - Product Owner/Business Analyst
 
-Responsibilities:
+    Responsibilities:
 
 •	Identifying business opportunities and potential project value.
 
@@ -59,7 +59,7 @@ Responsibilities:
 
 - Ashkan Rahmati - Lead Developer
 
-Responsibilities:
+    Responsibilities:
 
 •	Translating requirements and design mock-ups into functional code.
 
@@ -72,7 +72,7 @@ Responsibilities:
 
 - Amin Ameli Kalkhoran - QA Lead/Test Engineer
 
-Responsibilities:
+    Responsibilities:
 
 •	Developing test plans and test cases to ensure software functionality.
 
