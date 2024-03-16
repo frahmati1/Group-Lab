@@ -46,38 +46,38 @@ If both players choose the same shape, the game is tied, and they may play again
 
 - Farnoosh Rahmati - Product Owner/Business Analyst
 
-    Responsibilities:
+  Responsibilities:
 
-•	Identifying business opportunities and potential project value.
+   •	Identifying business opportunities and potential project value.
 
-•	Gathering, specifying, and prioritizing project requirements.
+   •	Gathering, specifying, and prioritizing project requirements.
 
-•	Communicating with stakeholders to ensure alignment with business objectives.
+   •	Communicating with stakeholders to ensure alignment with business objectives.
 
-•	Estimating timeframes and overseeing the project's progress.
+   •	Estimating timeframes and overseeing the project's progress.
 
 
 - Ashkan Rahmati - Lead Developer
 
-    Responsibilities:
+  Responsibilities:
 
-•	Translating requirements and design mock-ups into functional code.
+   •	Translating requirements and design mock-ups into functional code.
 
-•	Leading the development team through coding sprints.
+   •	Leading the development team through coding sprints.
 
-•	Reviewing code, integrating work, and ensuring the technical quality of the product.
+   •	Reviewing code, integrating work, and ensuring the technical quality of the product.
 
-•	Collaborating with the Product Owner to refine features and iterations.
+   •	Collaborating with the Product Owner to refine features and iterations.
 
 
 - Amin Ameli Kalkhoran - QA Lead/Test Engineer
 
-    Responsibilities:
+   Responsibilities:
 
-•	Developing test plans and test cases to ensure software functionality.
+    •	Developing test plans and test cases to ensure software functionality.
 
-•	Executing tests, documenting results, and identifying defects.
+    •	Executing tests, documenting results, and identifying defects.
 
-•	Collaborating with the development team to troubleshoot and resolve issues.
+    •	Collaborating with the development team to troubleshoot and resolve issues.
 
-•	Overseeing final deployment of the product to production and ensuring quality standards are met.
+    •	Overseeing final deployment of the product to production and ensuring quality standards are met.
