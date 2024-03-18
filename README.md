@@ -82,3 +82,14 @@ If both players choose the same shape, the game is tied, and they may play again
     •	Collaborating with the development team to troubleshoot and resolve issues.
 
     •	Overseeing final deployment of the product to production and ensuring quality standards are met.
+
+
+- Rina An - UX/UI Designer
+
+   Responsibilities:
+
+   •    Creating mock-ups and prototypes of the user interface, focusing on user experience and design aesthetics.
+
+   •    Collaborating closely with the Product Owner to ensure the design meets business requirements and user needs.
+
+   •    Working alongside developers, particularly the Lead Developer, to translate designs into implementable code and to ensure design integrity is maintained in the final product.
