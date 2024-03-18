@@ -11,7 +11,7 @@ Paper covers rock (paper wins)
 If both players choose the same shape, the game is tied, and they may play again.
 
 
-# Game Algorithms:
+#  Game Algorithms:
 
 
     # Import the random module for generating the computer's choice
